@@ -1,6 +1,6 @@
-# C++ Launchpad BCA – Sage University
+# C++ Launchpad Btech-A – Sage University
 
-Welcome to the official repository for the **C++ Launchpad** course by **Coding Blocks** for the **BCA batch**, conducted at **Sage University**. This repository is designed to help students stay updated with all the learning materials covered in class.
+Welcome to the official repository for the **C++ Launchpad** course by **Coding Blocks** for the **Btech-A batch**, conducted at **Sage University**. This repository is designed to help students stay updated with all the learning materials covered in class.
 
 ## 📘 Course Overview
 
